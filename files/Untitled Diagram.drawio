@@ -1,10 +1,10 @@
-<mxfile modified="2023-03-22T18:00:46.453Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_ZI9wHaaCBg2DkQ7Xvjk" version="21.0.10" type="github">
+<mxfile modified="2023-03-22T18:12:06.745Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Mq-Ez2XUasIF78KEZhKM" version="21.0.10" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="2252" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_F0WwG2DzBjVczEAJWyu-36" value="" style="fillColor=none;strokeColor=#1f2cdb;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="_F0WwG2DzBjVczEAJWyu-36" value="" style="fillColor=none;strokeColor=#009900;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-50" y="20" width="1240" height="740" as="geometry" />
         </mxCell>
         <mxCell id="3ne1QswCM8ZiEu4GHsYG-31" value="CN2 Pipeline - Multiple Test WF run" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
